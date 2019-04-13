@@ -1,4 +1,3 @@
 import requests
 
-
-some text
+print('hello world')
