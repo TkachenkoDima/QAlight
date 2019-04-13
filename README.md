@@ -1,21 +1,8 @@
 # QAlight
 QAlight tasks
-ololo trololo
 
 
+1
+2
+3
 
-
-
-fwdf
-
-dfsf
-sf
-sd
-f
-dsf
-sdf
-ds
-f
-sdf
-s<<<
-.>>
